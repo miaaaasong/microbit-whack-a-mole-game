@@ -11,6 +11,6 @@ To get started with this project, do the following:
 - Make sure the Led lights(pin6-9) and buttons(pin 1-4) are one to one respondence. For example, pin6 and pin1 are one to one respondence.
 - Run the code
 
-##Video as a reference
+## Video as a reference
 Link:
 https://drive.google.com/open?id=153G12YgjdcC1vLBd_-TxkiztuVf8Gs96
